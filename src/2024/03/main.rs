@@ -45,7 +45,7 @@ fn part_two(programs: &Vec<String>) {
 }
 
 fn main() -> std::io::Result<()> {
-    let input = aoc_rs::read_input(2024, 3)?;
+    let input = aoc::read_input(2024, 3)?;
 
     let mut programs = Vec::new();
     for line in input.lines() {

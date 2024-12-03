@@ -82,7 +82,7 @@ fn part_two(reports: &Vec<Vec<i32>>) {
 }
 
 fn main() -> std::io::Result<()> {
-    let input = aoc_rs::read_input(2024, 2)?;
+    let input = aoc::read_input(2024, 2)?;
 
     let mut reports = Vec::new();
     for line in input.lines() {

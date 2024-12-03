@@ -31,7 +31,7 @@ fn part_two(left_list: &Vec<i32>, right_list: &Vec<i32>) {
 }
 
 fn main() -> std::io::Result<()> {
-    let input = aoc_rs::read_input(2024, 1)?;
+    let input = aoc::read_input(2024, 1)?;
 
     let mut left_list = Vec::new();
     let mut right_list = Vec::new();
