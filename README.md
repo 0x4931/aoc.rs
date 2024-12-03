@@ -2,9 +2,12 @@
     🚀 aoc.rs 🚀
 </h1>
 
-<h4 align='center'>
-    My solutions for <a href='https://adventofcode.com/2024'>Advent of Code</a>, written in <a href='https://www.rust-lang.org'>Rust</a> (🚀🚀🚀)
-</h4>
+<p align='center'>
+    <b>
+        My solutions for <a href='https://adventofcode.com/2024'>Advent of Code</a>,
+        written in <a href='https://www.rust-lang.org'>Rust</a> (🚀🚀🚀)
+    </b>
+</p>
 
 ## User Guide
 
