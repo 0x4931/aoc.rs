@@ -50,6 +50,10 @@ path = "src/2024/09/main.rs"
 name = "2024_10"
 path = "src/2024/10/main.rs"
 
+[[bin]]
+name = "2024_11"
+path = "src/2024/11/main.rs"
+
 # 2023
 
 [[bin]]
